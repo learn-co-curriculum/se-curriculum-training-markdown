@@ -146,7 +146,7 @@ If you set up `markdownlint` correctly, you should see some tan-colored squiggly
 lines throughout the file. Hovering over these lines with your mouse will reveal
 the issues identified by `markdownlint`.
 
-[markdownlint example](https://curriculum-content.s3.amazonaws.com/curriculum-training/markdown/markdownlint.png)
+![markdownlint example](https://curriculum-content.s3.amazonaws.com/curriculum-training/markdown/markdownlint.png)
 
 If you also have Prettier configured, and have the `editor.formatOnSave` option
 set to `true`, you can fix these issues simply by saving the file! The document
