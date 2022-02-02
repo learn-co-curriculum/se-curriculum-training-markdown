@@ -74,10 +74,10 @@ You're welcome to use an editor of your choice, but our team has found that VS
 Code has many useful extensions that help increase our productivity, such as an
 extension for `markdownlint`.
 
-Install the [`markdownlint` extension][], then open your VS Code settings by
-opening the Command Palette in VSCode (`Command+Shift+P`), and typing
-`Preferences: Open Settings (JSON)`. Include the following configuration in your
-`settings.json` file:
+Install the [`markdownlint` extension][markdownlint-extension], then open your
+VS Code settings by opening the Command Palette in VSCode (`Command+Shift+P`),
+and typing `Preferences: Open Settings (JSON)`. Include the following
+configuration in your `settings.json` file:
 
 ```json
 {
@@ -173,7 +173,7 @@ See if you can fix all the issues identified by `markdownlint` before moving on!
   https://www.markdownguide.org/extended-syntax/#syntax-highlighting
 [languages]: https://github.com/rouge-ruby/rouge/blob/master/docs/Languages.md
 [markdownlint]: https://github.com/DavidAnson/markdownlint
-[markdownlint extension]:
+[markdownlint-extension]:
   https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint
 [markdownlint-rules-flatiron-lesson]:
   https://github.com/learn-co-curriculum/markdownlint-rules-flatiron-lesson
